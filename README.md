@@ -15,7 +15,7 @@
 Kullanıcının üretim verilerini (örneğin enerji tüketimi, hammadde vb.) girebildiği ve arka planda çalışan temel bir model ile tahmini karbon emisyonu sonucunu ekranda görebildiği çalışan bir çekirdek arayüz ortaya çıkarmak.
 
 ## 📊 Backlog Dağıtma Mantığı
-Tek kişi olduğum için "önce çalışan çekirdek" ilkesi izlenerek tüm efor temel arayüz ve form yapısının kurulmasına verilmiştir. Story ve Task dağılımları doğrudan ürünün MVP (Minimum Uygulanabilir Ürün) seviyesine ulaşması hedeflenerek yapılmıştır.
+Story ve Task dağılımları doğrudan ürünün MVP (Minimum Uygulanabilir Ürün) seviyesine ulaşması hedeflenerek yapılmıştır.
 
 ## 📋 Sprint Board
 * **Board:** Proje panosu GitHub Projects üzerinden tutulmuştur.
