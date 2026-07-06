@@ -47,5 +47,15 @@ Sprint board update:
 
 ![Sprint Board](board-sonu.png)
 
+Ürün Durumu:
+(Uygulamanın MVP çekirdek kodu `app.py` olarak depoya eklenmiştir. Arayüzün canlı ekran görüntüsü uygulamanın tam entegrasyonu sağlandığında eklenecektir.)
+
+Sprint Review: 
+Alınan kararlar: Proje fikri ve kapsamı netleştirilmiştir. Arayüz iskeleti kurulmuştur. Geliştirmelerde bir problem görülmemiştir.
+
+Sprint Retrospective:
+Karar alma süreci tek kişi olmanın avantajıyla çok hızlı ilerlemiştir.
+Gelecek sprintlerde teknik işleri daha küçük parçalara bölerek ilerleme kararı alınmıştır.
+
 
 
