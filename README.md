@@ -1,30 +1,36 @@
 # Team-68
 
-# 🌿 Eco-Cost AI — Sprint 1
+Ürün İle İlgili Bilgiler
 
-**Takım Rolleri:**
-* Product Owner: Aybüke Hamzaçebi
-* Scrum Master: Aybüke Hamzaçebi
-* Developer: Aybüke Hamzaçebi
+Takım Elemanları:
 
-**Ürün Açıklaması:** Eco-Cost AI, şirketlerin üretim verilerine dayanarak gelecekteki karbon emisyonlarını ve olası karbon vergisi/ceza maliyetlerini tahmin eden makine öğrenmesi destekli bir veri panelidir.
+*Product Owner: Aybüke Hamzaçebi
+*Scrum Master: Aybüke Hamzaçebi
+*Developer: Aybüke Hamzaçebi
 
+Ürün İsmi:
+*Eco-Cost AI 
 
-## 🎯 Sprint Hedefi
-**Sprint Süresi:** 19 Haziran - 5 Temmuz 2026
-Kullanıcının üretim verilerini (örneğin enerji tüketimi, hammadde vb.) girebildiği ve arka planda çalışan temel bir model ile tahmini karbon emisyonu sonucunu ekranda görebildiği çalışan bir çekirdek arayüz ortaya çıkarmak.
+Ürün Açıklaması:
+*Eco-Cost AI, şirketlerin üretim verilerine dayanarak gelecekteki karbon emisyonlarını ve olası karbon vergisi/ceza maliyetlerini tahmin eden makine öğrenmesi destekli bir veri panelidir.
 
-## 📊 Backlog Dağıtma Mantığı
-Story ve Task dağılımları doğrudan ürünün MVP (Minimum Uygulanabilir Ürün) seviyesine ulaşması hedeflenerek yapılmıştır.
+Ürün Özellikleri:
 
-## 📋 Sprint Board
-* **Board:** Proje panosu GitHub Projects üzerinden tutulmuştur.
-* **Ekran Görüntüleri:** Pano durumunu gösteren `board-sonu.png` dosyası repo içerisine eklenmiştir.
+* İşletmelerin aylık enerji (elektrik, doğalgaz vb.) tüketim verilerini sisteme girebilmesi
+* Girilen veriler üzerinden anlık karbon ayak izi (emisyon) hesaplaması ve gösterimi
+* Emisyon limitleri aşıldığında kullanıcıya otomatik risk ve dikkat uyarıları sunulması
+* (Planlanan) Tahmini emisyon değerleri üzerinden olası karbon vergisi ve ceza maliyetlerinin hesaplanması
 
-## 📁 Sprint 1 Dokümanları
-Süreç boyunca hazırlanan tüm zorunlu dokümanlar ayrı Markdown (.md) dosyaları olarak repoya eklenmiştir:
+Hedef Kitle:
 
-* **Daily Scrum Notları:** `daily-scrum-notlari.md`
-* **Ürün Durumu:** `urun-durumu.md`
-* **Sprint Review:** `review.md`
-* **Sprint Retrospective:** `retro.md`
+* Karbon ayak izini takip etmek ve raporlamak isteyen işletmeler
+* Enerji ve hammadde tüketimi yüksek olan üretim tesisleri ve fabrikalar
+* Şirketlerin sürdürülebilirlik birimleri ve çevre uzmanları
+* Gelecekteki olası karbon vergisi regülasyonlarına karşı finansal risk analizi yapmak isteyen mali işler yöneticileri
+
+Product Backlog URL:
+
+https://github.com/users/aybukeayse/projects/1
+
+Sprint 1
+
