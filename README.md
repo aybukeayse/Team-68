@@ -2,7 +2,7 @@
 
 Ürün İle İlgili Bilgiler
 
-Takım Elemanları:
+Takım Elemanları: 
 
 *Product Owner: Aybüke Hamzaçebi
 *Scrum Master: Aybüke Hamzaçebi
