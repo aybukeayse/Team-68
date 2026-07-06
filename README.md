@@ -34,3 +34,18 @@ https://github.com/users/aybukeayse/projects/1
 
 Sprint 1
 
+Backlog düzeni ve Story seçimleri:
+
+Takımda tek kişi yer aldığı için backlog, doğrudan en temel hedef olan "çalışan bir arayüz (MVP) çıkarma" stratejisine göre düzenlenmiştir. Task'lar, veri işleme ve arayüz tasarımı adımlarına bölünerek sırayla panoya eklenmiştir.
+
+Daily Scrum:
+Daily Scrum notları tarafımdan link olarak paylaşılmaktadır: 
+
+[Sprint 1 Daily Scrum Notları](daily-scrum-notlari.md)
+
+Sprint board update:
+
+![Sprint Board](board-sonu.png)
+
+
+
