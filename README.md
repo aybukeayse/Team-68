@@ -4,7 +4,7 @@
 ## Takım Elemanları: 
 
 *Product Owner: Aybüke Hamzaçebi
-*Scrum Master: Aybüke Hamzaçebi
+*Scrum Master: Aybüke Hamzaçebi 
 *Developer: Aybüke Hamzaçebi
 
 ## Ürün İsmi:
