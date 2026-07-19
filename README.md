@@ -32,7 +32,7 @@ Product Backlog URL:
 
 https://github.com/users/aybukeayse/projects/1
 
-Sprint 1
+# Sprint 1
 
 Backlog düzeni ve Story seçimleri:
 
