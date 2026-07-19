@@ -47,13 +47,13 @@ Sprint board update:
 
 ![Sprint Board](board-sonu.png)
 
-Ürün Durumu:
+## Ürün Durumu:
 (Uygulamanın MVP çekirdek kodu `app.py` olarak depoya eklenmiştir. Arayüzün canlı ekran görüntüsü uygulamanın tam entegrasyonu sağlandığında eklenecektir.)
 
-Sprint Review: 
+## Sprint Review: 
 Alınan kararlar: Proje fikri ve kapsamı netleştirilmiştir. Arayüz iskeleti kurulmuştur. Geliştirmelerde bir problem görülmemiştir.
 
-Sprint Retrospective:
+## Sprint Retrospective:
 Karar alma süreci tek kişi olmanın avantajıyla çok hızlı ilerlemiştir.
 Gelecek sprintlerde teknik işleri daha küçük parçalara bölerek ilerleme kararı alınmıştır.
 
@@ -86,11 +86,11 @@ Kullanıcı arayüzü (MVP) çalışır durumdadır. Mock veri setinin entegrasy
 ![Ürün Durumu](urun-sprint2.png)
 
 ## Sprint Review (Değerlendirme)
-* **Alınan Kararlar:** Veri altyapısının test edilmesi hedefine ulaşılmıştır. Sonraki sprintte gerçek açık kaynaklı veri setlerine geçiş yapılmasına veya makine öğrenmesi modelinin (tahminleme) koda dahil edilmesine karar verilmiştir.
+Veri altyapısının test edilmesi hedefine ulaşılmıştır. Sonraki sprintte gerçek açık kaynaklı veri setlerine geçiş yapılmasına veya makine öğrenmesi modelinin (tahminleme) koda dahil edilmesine karar verilmiştir.
 
 ## Sprint Retrospective (Retro)
-* **İyi Gidenler:** Sistemi test etmek için hızlıca mock veri kullanmak zaman yönetimini çok verimli hale getirdi.
-* **Geliştirilmesi Gerekenler:** Dokümantasyon süreçleri son güne bırakılmamalı, sprint içine daha dengeli yayılmalı.
+ Sistemi test etmek için hızlıca mock veri kullanmak zaman yönetimini çok verimli hale getirdi.
+
 
 
 
