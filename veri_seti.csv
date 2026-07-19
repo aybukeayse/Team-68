@@ -1,0 +1,6 @@
+Sirket_ID,Sektor,Enerji_Tuketimi_kWh,Hammadde_Ton,Karbon_Emisyonu_Ton
+1,Uretim,15000,500,450
+2,Lojistik,8000,100,210
+3,Teknoloji,3000,20,50
+4,Uretim,22000,750,680
+5,Tarim,5000,300,150
