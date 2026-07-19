@@ -4,7 +4,7 @@ import pandas as pd
 st.title("Eco-Cost AI 🌿")
 st.subheader("Karbon Etkisi ve Maliyet Tahminleyicisi (Sprint 2)")
 
-# SPRINT 2: Veri Seti Entegrasyonu (Yan Menü) 
+# --- SPRINT 2: Veri Seti Entegrasyonu (Yan Menü) ---
 st.sidebar.header("Veri Entegrasyonu")
 st.sidebar.markdown("Sprint 2: Temsili veri seti (`veri_seti.csv`) sisteme entegre edildi.")
 
@@ -15,9 +15,9 @@ try:
         st.sidebar.dataframe(df)
 except FileNotFoundError:
     st.sidebar.warning("veri_seti.csv henüz yüklenmedi.")
+# ---------------------------------------------------
 
-
-# SPRINT 1: Mevcut Hesaplama Altyapısı 
+# --- SPRINT 1: Mevcut Hesaplama Altyapısı ---
 st.write("Lütfen aylık üretim verilerinizi girin:")
 elektrik = st.number_input("Aylık Elektrik Tüketimi (kWh)", min_value=0)
 dogalgaz = st.number_input("Aylık Doğalgaz Tüketimi (m3)", min_value=0)
