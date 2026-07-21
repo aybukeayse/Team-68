@@ -1,3 +1,4 @@
+
 # Team-68
 
 
@@ -75,7 +76,8 @@ Eco-Cost AI sisteminin veri okuma altyapısını test etmek amacıyla temsili (m
 
 
 ## Sprint Board Update
-Sprint 2 için belirlenen temsili veri oluşturma ve entegrasyon görevleri başarıyla 'Done' statüsüne çekilmiştir.
+Sprint 2 için belirlenen temsili veri oluşturma ve entegrasyon görevleri başarıyla 'Done' statüsüne çekilmiştir. 
+** [Sprint 2 Backlog / Pano Linki](https://github.com/users/aybukeayse/projects/1/views/1)**
 
 ![Sprint 2 Board](board-sprint2.png)
 
