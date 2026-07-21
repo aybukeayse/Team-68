@@ -90,7 +90,9 @@ Kullanıcı arayüzü (MVP) çalışır durumdadır. Mock veri setinin entegrasy
 Veri altyapısının test edilmesi hedefine ulaşılmıştır. Sonraki sprintte gerçek açık kaynaklı veri setlerine geçiş yapılmasına veya makine öğrenmesi modelinin (tahminleme) koda dahil edilmesine karar verilmiştir.
 
 ## Sprint Retrospective (Retro)
- Sistemi test etmek için hızlıca mock veri kullanmak zaman yönetimini çok verimli hale getirdi.
+* **İyi Gidenler:** Gerçek veri seti aramakla zaman kaybetmeyip başta uydurma (mock) bir CSV ile deneme yapmak çok işime yaradı. Bu sayede Streamlit'te hata almadan veriyi okutabildim. Ekranda verinin başarıyla çekildiğini görmek de sonraki aşamalar için beni motive etti.
+* **Geliştirilmesi Gerekenler:** Tek başıma çalıştığım için sadece kod yazmaya odaklanmışım, GitHub panosunu (board) güncellemeyi ve dokümantasyon kısımlarını hep son güne bıraktım. Bu da son anda gereksiz telaş yapmama sebep oldu. Zaman planlamasını daha dengeli yapmalıyım.
+* **Alınan Aksiyonlar:** Sprint 3'te artık işin içine tahminleme ve makine öğrenmesi gireceği için kaynak okumalarına daha çok zaman ayırmam gerekecek. Tez telaşıyla birlikte sıkışmaması adına bu okumaları son güne bırakmayacağım. Bir de sprint başlar başlamaz ilk iş board'u güncel tutmaya özen göstereceğim.
 
 
 
